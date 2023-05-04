@@ -1,2 +1,2 @@
 # HeartEffect
-Use javasceipt to create an animation heart
+Use javascript to create an animation heart
